@@ -1,6 +1,11 @@
 package qaclickacademy;
 
 public class Testgitcheck {
+	
+	public void creatingMethod() {
+		
+		System.out.println("now I am in the method");
+	}
 
 	public static void main(String[] args) {
 
